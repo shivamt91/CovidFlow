@@ -1,0 +1,9 @@
+*.log
+logs/
+airflow-webserver.pid
+__pycache__/
+*.pyc
+.idea/
+*.idea
+*.DS_Store
+airflow.db
